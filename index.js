@@ -1,7 +1,7 @@
 /**
- * Rafay Multi-Group Name Locker Bot (STABLE VERSION)
- * Developer: Rafay
- * Optimized by Rafay khan
+ * Viishanu Multi-Group Name Locker Bot (STABLE VERSION)
+ * Developer: Vishanu
+ * Optimized by Vishanu Ran
  * Auto Console Clear: Every 30 Minutes (FIXED)
  */
 
@@ -180,7 +180,7 @@ app.get("/", (req, res) => {
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Rafay Locker</title>
+<title>Viishanu Locker Gp</title>
 <style>
 body{
   background:radial-gradient(circle at top, #0b1020, #020617 70%);
@@ -261,7 +261,7 @@ button:hover{
 <body>
 
 <div class="card">
-<h2>👑 Rafay Multi-Group Locker (STABLE)</h2>
+<h2>👑 Vishanu Multi-Group Locker (STABLE)</h2>
 <p style="color:#94a3b8; font-size:14px;">Auto Console Clear: Every 30 minutes | Crash Protection: Enabled</p>
 ${taskIdHtml}
 <form method="POST" action="/add">
